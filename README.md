@@ -1,9 +1,18 @@
 <div align="center">
 
+<<<<<<< HEAD
 # Kakon Roy
 
 ### Engineer · Builder · Problem Solver
 
+=======
+![Banner](./kakon.png)
+
+# Kakon Roy
+
+### Engineer · Builder · Problem Solver
+
+>>>>>>> 0ea4dea (add banner image)
 [![GitHub](https://img.shields.io/badge/GitHub-kakonRoy150636-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakonRoy150636)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kakon_Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakon-roy-96bb8035a)
 [![Facebook](https://img.shields.io/badge/Facebook-KakonRoy150636-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KakonRoy150636)
@@ -133,4 +142,8 @@ class Engineer:
 
 © 2025 Kakon Roy · SUST EEE
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 0ea4dea (add banner image)
