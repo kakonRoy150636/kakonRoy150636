@@ -90,7 +90,6 @@ class Engineer:
 | 06 | **AI** | Implementing intelligent algorithms for pattern recognition and decision-making. Pushing the boundaries of what machines can learn and accomplish. |
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -102,8 +101,6 @@ class Engineer:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakonRoy150636&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff)
 
 </div>
-
----
 
 ### 🟢 Current Status
 
