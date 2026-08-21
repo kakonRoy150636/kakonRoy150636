@@ -46,14 +46,21 @@ class Engineer:
 
 ---
 
-### 🛠️ Proficiency
+### 🛠️ Tech Stack & Proficiency
 
-| Category | Skills |
-|----------|--------|
-| **Software** | ![Python](https://img.shields.io/badge/Python-90%25-EF4444?style=flat-square) ![C](https://img.shields.io/badge/C-80%25-EF4444?style=flat-square) ![Shell/Bash](https://img.shields.io/badge/Shell/Bash-85%25-EF4444?style=flat-square) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-85%25-EF4444?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-75%25-EF4444?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI/CD-80%25-EF4444?style=flat-square) ![Linux Admin](https://img.shields.io/badge/Linux_Admin-85%25-EF4444?style=flat-square) |
-| **Robotics** | ![Computer Vision](https://img.shields.io/badge/Computer_Vision-85%25-EF4444?style=flat-square) ![Fusion Design](https://img.shields.io/badge/Fusion_Design-75%25-EF4444?style=flat-square) ![Robotics](https://img.shields.io/badge/Robotics-80%25-EF4444?style=flat-square) |
-| **Tooling** | ![Arduino](https://img.shields.io/badge/Arduino/MCU-85%25-EF4444?style=flat-square) ![Git](https://img.shields.io/badge/Git/GitHub-90%25-EF4444?style=flat-square) ![Hardware](https://img.shields.io/badge/Hardware_Design-80%25-EF4444?style=flat-square) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,bash,js,react,nodejs,fastapi,postgres,opencv,arduino,git,linux&perline=6&theme=dark" />
+  </a>
+</p>
+
+| Category | Technical Expertise | Mastery |
+| :--- | :--- | :--- |
+| <b>💻 Software</b> | `Python` `C/C++` `Bash Scripting` | `████████░░` **85%** |
+| <b>🌐 Full Stack</b> | `JavaScript` `React` `Node.js` `FastAPI` `PostgreSQL` | `████████░░` **82%** |
+| <b>🤖 Robotics & CV</b> | `OpenCV` `ROS` `Fusion 360` `Embedded Vision` | `████████░░` **80%** |
+| <b>🛠️ Tooling & Hardware</b> | `Arduino` `Git/GitHub` `Linux Kernel` `PCB/Hardware` | `█████████░` **88%** |
+
 
 ---
 
