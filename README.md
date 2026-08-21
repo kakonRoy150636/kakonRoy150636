@@ -14,7 +14,7 @@
 
 <div align="center">
 
-`Embedded Systems` ◆ `Robotics` ◆ `Computer Vision` ◆ `Fusion Design` ◆ `DevOps` ◆ `Docker` ◆ `Kubernetes` ◆ `CI/CD` ◆ `Linux` ◆ `Python`
+`Embedded Systems` ◆ `Robotics` ◆ `Computer Vision` ◆ `Fusion Design` ◆ `git` ◆ `Web Development` ◆ `Full Stack` ◆ `Matlab` ◆ `Linux` ◆ `Python`
 
 </div>
 
