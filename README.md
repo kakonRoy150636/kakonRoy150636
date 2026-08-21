@@ -43,6 +43,44 @@ class Engineer:
 🎯 **Focus Areas** — Embedded Systems, Robotics, Computer Vision, Fusion Design, and DevOps Engineering. Bridging hardware and software.
 
 ⚙️ **Approach** — Combining hardware expertise, algorithmic thinking, and modern DevOps practices to build robust, scalable systems.
+<!-- 🌐 Mac Browser Frame Showcase -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
+  <!-- Browser Bar -->
+  <tr bgcolor="#161b22">
+    <td colspan="2" style="padding: 10px 15px;">
+      <span style="color: #ff5f56; font-size: 16px;">●</span>
+      <span style="color: #ffbd2e; font-size: 16px;">●</span>
+      <span style="color: #27c93f; font-size: 16px;">●</span>
+      &nbsp;&nbsp;
+      <code style="color: #8b949e; background: #0d1117; padding: 4px 12px; border-radius: 6px; border: 1px solid #30363d;">
+        🔒 https://kroybd.netlify.app
+      </code>
+    </td>
+  </tr>
+  <!-- Browser Content -->
+  <tr bgcolor="#0d1117">
+    <td width="65%" style="padding: 20px; vertical-align: top;">
+      <!-- Typing Animation Header -->
+      <a href="https://kroybd.netlify.app" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5D4&width=400&lines=KroyBD+Template+Showcase;Founder+%26+Sole+Owner;Custom+Web+Platform" alt="Typing Header" />
+      </a>
+      <p style="color: #8b949e; font-size: 14px; line-height: 1.6;">
+        আমার নিজের আর্কিটেক্ট ও তৈরি করা একটি কাস্টম ওয়েব প্ল্যাটফর্ম। এখানে লাইভ ইন্টারঅ্যাক্টিভ প্রিভিউ সহ মডার্ন, রেসপন্সিভ এবং হাই-পারফরম্যান্স ওয়েব টেমপ্লেট শোকেস করা হয়।
+      </p>
+      <br/>
+      <a href="https://kroybd.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_EXPLORE_LIVE_SITE-00F5D4?style=for-the-badge&labelColor=0d1117&color=00F5D4" />
+      </a>
+    </td>
+    <td width="35%" bgcolor="#161b22" align="center" style="padding: 20px; vertical-align: middle;">
+      <img src="https://img.shields.io/badge/OWNERSHIP-Founder_%26_Owner-FF007F?style=for-the-badge&logo=crown&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PLATFORM-Template_Directory-0072F5?style=for-the-badge&logo=react&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SYSTEM-Live_%26_Deployed-00E676?style=for-the-badge&logo=netlify&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
