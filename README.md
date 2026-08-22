@@ -33,14 +33,14 @@ class Engineer:
             "Robotics",
             "Computer Vision",
             "Fusion Design",
-            "DevOps Engineering",
+            "Full Stack developer",
             "AI"
         ]
 ```
 
 🎓 **Education** — Electrical & Electronic Engineering at Shahjalal University of Science and Technology (SUST), Sylhet
 
-🎯 **Focus Areas** — Embedded Systems, Robotics, Computer Vision, Fusion Design, and DevOps Engineering. Bridging hardware and software.
+🎯 **Focus Areas** — Embedded Systems, Robotics, Computer Vision, Fusion Design,  Bridging hardware and software.
 
 ⚙️ **Approach** — Combining hardware expertise, algorithmic thinking, and modern DevOps practices to build robust, scalable systems.
 <!-- 🌐 Mac Browser Frame Showcase -->
@@ -110,8 +110,6 @@ class Engineer:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -131,8 +129,7 @@ class Engineer:
 | 02 | **Robotics** | Integrating sensors, actuators, and algorithms for autonomous behavior. Creating systems that perceive and interact with the physical world. |
 | 03 | **Computer Vision** | Developing algorithms for image processing and visual understanding. Enabling machines to interpret and act on visual data with precision. |
 | 04 | **Fusion Design** | Combining engineering principles with modern design thinking. Creating systems where functionality and aesthetics converge seamlessly. |
-| 05 | **DevOps Engineering** | Building CI/CD pipelines and infrastructure as code. Automating deployment, scaling, and management of containerized applications. |
-| 06 | **AI** | Implementing intelligent algorithms for pattern recognition and decision-making. Pushing the boundaries of what machines can learn and accomplish. |
+| 05 | **AI** | Implementing intelligent algorithms for pattern recognition and decision-making. Pushing the boundaries of what machines can learn and accomplish. |
 
 ---
 ### 📊 GitHub Stats
